@@ -98,8 +98,30 @@ The game follows a **3-layer architecture**:
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 > ⚠ This project targets `net8.0-windows`, meaning it can only run on Windows and requires Windows-specific UI libraries (e.g. Windows Forms).
 
-### Clone the Repository
+### Running the Game (Step-by-step)
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/yogi-bear-game.git
+   cd yogi-bear-game
+2. Open solution in Visual Studio:
 
-```bash
-git clone https://github.com/your-username/yogi-bear-game.git
-cd yogi-bear-game
+- File  
+- Open  
+- Project/Solution  
+- Select `YogiBearGame.sln`
+
+3. (Optional) Set startup project:
+
+- Right-click main project  
+- Select **Set as Startup Project**
+
+4. Build & run:
+
+- Click **Start** or press **F5**
+
+## Author
+
+Created as a university assignment – Fall 2024
+Developed by: Ádám Tamás 
+
+> This project was developed for educational purposes as part of a university course
