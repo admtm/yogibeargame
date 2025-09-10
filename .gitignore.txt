@@ -1,0 +1,22 @@
+# Visual Studio mappák
+.vs/
+*.user
+*.suo
+
+# Build output mappák
+bin/
+obj/
+
+# Temporary fájlok
+*.log
+*.tmp
+*.cache
+
+# Rider és más IDE-k
+.idea/
+*.sln.docstates
+
+# NuGet csomagok
+*.nupkg
+packages/
+*.snupkg

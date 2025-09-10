@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ulTUTDAUGcxCmYEbyIpZAaALAYoF6WrQ02Eh1S1Xs400IzuB4AUeDXQKCKcrj7aT0T7edV83z6zb3lBzKtO92w==",
+  "success": true,
+  "projectFilePath": "C:\\Dokumentumok\\YogiBearGame_wpf_bead_javitott\\YogiBear\\YogiBear.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tamás\\.nuget\\packages\\elte.fi.saruleset\\3.1.0\\elte.fi.saruleset.3.1.0.nupkg.sha512",
+    "C:\\Users\\Tamás\\.nuget\\packages\\microsoft.codeanalysis.bannedapianalyzers\\3.3.4\\microsoft.codeanalysis.bannedapianalyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\Tamás\\.nuget\\packages\\roslynator.analyzers\\4.5.0\\roslynator.analyzers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tamás\\.nuget\\packages\\sonaranalyzer.csharp\\9.12.0.78982\\sonaranalyzer.csharp.9.12.0.78982.nupkg.sha512"
+  ],
+  "logs": []
+}

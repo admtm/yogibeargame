@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# NuGet csomagok
+packages/
+*.nupkg
+*.snupkg
+
+# Rider / JetBrains IDE
+.idea/
+
+# Test eredmények
+TestResults/
+*.trx
+
+# Temporary files
+*.log
+*.tmp
+*.cache
+
+# MacOS, Linux, Windows rendszerfájlok
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Level fájlok, ha generáltak
+levels/*.tmp
+levels/*.bak
