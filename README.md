@@ -119,9 +119,4 @@ The game follows a **3-layer architecture**:
 
 - Click **Start** or press **F5**
 
-## Author
-
-Created as a university assignment – Fall 2024
-Developed by: Ádám Tamás 
-
 > This project was developed for educational purposes as part of a university course
