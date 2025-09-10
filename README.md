@@ -122,10 +122,10 @@ The game follows a **3-layer architecture**:
 ---
 ## Documentation
 
-The UML diagrams can be found in the [docs](docs) folder:
+The UML diagrams can be found in the [diagrams](diagrams) folder:
 
-- [Class Diagram](docs/UML_ClassDiagram.pdf)
-- [Sequence Diagram](docs/UML_SequenceDiagram.pdf)
+- [Model Diagram](diagrams/wpf_uml_1.pdf)
+- [ViewModel Diagram](diagrams/wpf_uml_2.pdf)
 
 
 > This project was developed for educational purposes as part of a university course
