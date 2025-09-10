@@ -119,4 +119,13 @@ The game follows a **3-layer architecture**:
 
 - Click **Start** or press **F5**
 
+---
+## Documentation
+
+The UML diagrams can be found in the [docs](docs) folder:
+
+- [Class Diagram](docs/UML_ClassDiagram.pdf)
+- [Sequence Diagram](docs/UML_SequenceDiagram.pdf)
+
+
 > This project was developed for educational purposes as part of a university course
