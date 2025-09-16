@@ -17,7 +17,6 @@ Help **Yogi Bear** collect all the picnic baskets in the forest while avoiding t
   - **Trees (obstacles)** –  dark green square
   - **Rangers** –  yellow square
 - Each ranger has **3×3 vision** (including diagonals). If Yogi Bear enters this vision: **Game Over**.
-![Easy level](assets/final_yogi.gif)
 
 ---
 
