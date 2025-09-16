@@ -10,6 +10,7 @@ Help **Yogi Bear** collect all the picnic baskets in the forest while avoiding t
 - The goal: **Collect all picnic baskets without being seen by any ranger.**
 - The game is played on an `n × n` grid-based board.
 - The player controls **Yogi Bear**, who collects **picnic baskets** while avoiding **patrolling rangers**.
+![Gameplayl](assets/gameplay.gif)
 - Rangers move in a straight line (horizontally or vertically), and **reverse direction** when they hit an obstacle or the board edge.
 - The game board consists of:
   - **Yogi Bear** (player) –  brown square
@@ -17,7 +18,7 @@ Help **Yogi Bear** collect all the picnic baskets in the forest while avoiding t
   - **Trees (obstacles)** –  dark green square
   - **Rangers** –  yellow square
 - Each ranger has **3×3 vision** (including diagonals). If Yogi Bear enters this vision: **Game Over**.
-
+![Losing](assets/losing.png)
 ---
 
 ## Controls
