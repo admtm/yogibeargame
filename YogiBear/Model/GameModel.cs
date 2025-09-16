@@ -51,7 +51,7 @@ namespace YogiBear.Model
             gameTimeElapsed = 0;
             boardSize = board.BoardSize;
 
-            rangerMoveTimer.Interval = 600;
+            rangerMoveTimer.Interval = 300;
             rangerMoveTimer.Elapsed += OnRangerMove;
 
             gameTimeTimer.Interval = 1000;
