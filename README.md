@@ -102,7 +102,7 @@ The game follows a **3-layer architecture**:
 ### Running the Game (Step-by-step)
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/yogi-bear-game.git
+   git clone https://github.com/admtm/yogibeargame.git
    cd yogi-bear-game
 2. Open solution in Visual Studio:
 
