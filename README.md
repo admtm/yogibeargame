@@ -66,7 +66,7 @@ The game follows a **3-layer architecture**:
 - Supports:
   - Loading predefined levels
   - Saving and restoring game state
-### 3. View (Windows Forms)
+### 3. View (WPF)
 - Implements UI using a single `MainWindow` screen.
 - Main features:
   - Dynamic grid (via `ItemsControl` and `UniformGrid`)
