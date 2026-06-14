@@ -1,6 +1,6 @@
 # Yogi Bear Game – Picnic Basket Hunt
 
-A simple 2D strategy game made in **C# using Windows Forms**, following a **three-layer architecture**.  
+A simple 2D strategy game made in **C# using WPF**, following a **three-layer architecture**.  
 Help **Yogi Bear** collect all the picnic baskets in the forest while avoiding the patrolling rangers!
 
 ---
